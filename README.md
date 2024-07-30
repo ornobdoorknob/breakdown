@@ -5,10 +5,11 @@ Demo:<br> ![Gameplay GIF](Demo.gif)
 - [Features](#features)
 - [Installation](#installation)  
 - [Explanation](#explanation)  </li>
-<a name="installation"/></a>
+<a name="features"/></a>
 ### Features
 - Customizable colors through the "Colors" button.
 - Solution mode that ends the game by revealing the enemy's ships, through the "Solve" button.
+<a name="installation"/></a>
 ### Installation
 - Install Java <a href="https://www.java.com/en/download/help/download_options.html" target="_blank">here</a>.
 - Download and extract the [Demo.zip](Demo.zip) file.
