@@ -11,7 +11,7 @@ Demo:<br> ![Gameplay GIF](Demo.gif)
 - Solution mode that ends the game by revealing the enemy's ships, through the "Solve" button.
 ### Installation
 - Install Java <a href="https://www.java.com/en/download/help/download_options.html" target="_blank">here</a>.
-- Download and extract the [Demo.zip file](Demo.zip).
+- Download and extract the [Demo.zip](Demo.zip) file.
 - Run the Game.jar file located in the extracted folder.
 <a name="explanation"/></a>
 ### Explanation
