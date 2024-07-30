@@ -1,6 +1,7 @@
 # Break Down
 A classic Battleship game implemented in Java using the Swing library. Many features are included such as customization and quick solving.<br>
-Demo:<br> ![Gameplay GIF](Demo.gif)
+## Demo 
+![Gameplay GIF](Demo.gif)
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)  
